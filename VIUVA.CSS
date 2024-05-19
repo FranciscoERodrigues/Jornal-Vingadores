@@ -1,0 +1,31 @@
+body{ background-image: url(imagem/fbeff2a3-7f1a-41dc-ba48-f04e3106fc6earveldy026964847381600x600.webp);
+}
+
+
+h1{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 30px;
+        text-align:center;
+    }
+h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    right: 100px;
+    text-align:center;
+    
+}
+
+p{ 
+
+    font-size: 25px;
+    text-align:left;
+
+}
+
+
+.viuva {
+
+    position: absolute;
+    right: 50px;
+    top: 214px;  
+    border-style: solid;color: rgb(255, 255, 255);
+
+}

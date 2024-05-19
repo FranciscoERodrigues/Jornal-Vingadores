@@ -1,0 +1,48 @@
+.Vingadores{
+    position:absolute;
+    left: 40%;
+    
+}
+
+body{ background-image: url(imagem/fbeff2a3-7f1a-41dc-ba48-f04e3106fc6earveldy026964847381600x600.webp);
+    }
+
+p, h1, h2{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+         font-size: 25px;   
+}
+
+.ORIGEM {border-radius: 45px;
+
+        position: absolute;
+        top: 36%;
+}
+
+.thor { 
+    border-radius: 140px;
+    border-style: solid;color: rgb(255, 255, 255);
+    position: absolute;
+    max-height: 100px;
+    left: 85%;
+    top: 40%;
+}
+
+.hulk { 
+    border-radius: 100px;
+    border-style: solid;color: rgb(255, 255, 255);
+    position: absolute;
+    max-height: 115px;
+    left: 85%;
+    top: 69%;
+}
+
+h2 {position: absolute;
+    left:89%;
+    top: 90%}
+
+h1 {position: absolute;
+    left: 86%;
+    bottom: 60%}
+
+p {position: absolute;
+    left: 12%;
+    bottom: 63% }

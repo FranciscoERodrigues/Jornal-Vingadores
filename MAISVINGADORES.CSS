@@ -1,0 +1,57 @@
+body{ background-image: url(imagem/fbeff2a3-7f1a-41dc-ba48-f04e3106fc6earveldy026964847381600x600.webp);
+}
+
+
+p{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+    text-align: center;  
+}
+
+.logo  {border-radius: 100px;
+    position: absolute;
+    max-height: 115px;
+    left: 1%;
+    top: 2%;}
+
+.THOR {border-radius: 50px;
+    border-style: solid;color: rgb(255, 255, 255);
+    position: absolute;
+    max-height: 115px;
+    left: 10%;
+    top: 67%;}
+
+.GAVIAO {border-radius: 100px;
+    border-style: solid;color: rgb(255, 255, 255);
+    position: absolute;
+    max-height: 115px;
+    left: 80%;
+    top: 69%;}
+
+.homem {border-radius: 100px;
+    border-style: solid;color: rgb(255, 255, 255);
+    position: absolute;
+    max-height: 110px;
+    left: 10%;
+    top: 40%;}
+
+.hulk {border-radius: 100px;
+    border-style: solid;color: rgb(255, 255, 255);
+    position: absolute;
+    max-height: 115px;
+    left: 80%;
+    top: 40%;}
+
+.VIUVA {border-radius: 100px;
+    border-style: solid;color: rgb(255, 255, 255);
+    position: absolute;
+    max-height: 115px;
+    left: 45%;
+    top: 40%;}
+
+.Capitao {border-radius: 100px;
+    border-style: solid;color: rgb(255, 255, 255);
+    position: absolute;
+    max-height: 115px;
+    left: 45%;
+    top: 69%;}
+
