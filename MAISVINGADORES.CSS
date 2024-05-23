@@ -25,7 +25,8 @@ p{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: absolute;
     max-height: 115px;
     left: 80%;
-    top: 69%;}
+    top: 69%;
+            }
 
 .homem {border-radius: 100px;
     border-style: solid;color: rgb(255, 255, 255);
@@ -54,4 +55,9 @@ p{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     max-height: 115px;
     left: 45%;
     top: 69%;}
+
+img:hover { 
+    max-height: 140px;
+    transition: 1s
+}
 
